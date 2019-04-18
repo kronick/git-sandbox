@@ -1,1 +1,3 @@
-Feature A also affects file B
+Feature A also affects file B.
+
+This should be cleanly fast forwarded.
